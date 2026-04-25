@@ -1,0 +1,27 @@
+{
+  "name": "vote-battle-arcade",
+  "version": "0.1.0",
+  "description": "A vs B voting battles — Stacks mainnet contract",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p .",
+    "lint": "echo 'no linter configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brventonbeshers-ship-it/vote-battle-arcade.git"
+  },
+  "keywords": [
+    "stacks",
+    "smart-contracts",
+    "web3",
+    "dapp"
+  ],
+  "author": "brventonbeshers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brventonbeshers-ship-it/vote-battle-arcade/issues"
+  },
+  "homepage": "https://github.com/brventonbeshers-ship-it/vote-battle-arcade#readme"
+}
